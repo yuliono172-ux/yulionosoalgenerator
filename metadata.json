@@ -1,0 +1,6 @@
+{
+  "name": "Pakar Evaluasi Kurikulum Merdeka",
+  "description": "Generator dan penyusun perangkat tes asesmen Kurikulum Merdeka: Naskah Soal, Matriks Kisi-Kisi, dan Kunci Jawaban serta Rubrik Penilaian lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
